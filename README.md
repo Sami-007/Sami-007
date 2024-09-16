@@ -1,5 +1,29 @@
 <h4 align="left">👋 Hi, I’m Samiullah<br>	•	🎓 Graduate in Cloud Computing from Rizhao Polytechnic.<br>	•	💻 Fiverr Developer specializing in Java, C++, Python, JavaScript, and Data Structures & Algorithms.<br>	•	🎯 Helping clients with coding, debugging, and problem-solving on Fiverr.<br>•🌱 I’m a MERN stake developer<br>•💞️ My portfolio website for more details https://sami-007.github.io/myportfolio/<br>•📫 How to reach me, Samiasad.007@gmail.com</h4>
 
+
+
+
+## Hey 👋, Samiullah
+
+
+
+I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+<br/>
+<br/>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+  
+### 🧐 More About Me:
+- 💻 &nbsp; Fiverr Developer specializing in Java, Python, JavaScript, and Data Structures & Algorithms
+- 🌱 &nbsp; I’m currently learning Typescript; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Sami-007?tab=repositories)
+- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](linkedin.com/in/samiullah-mithani-86aba715a)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1hYARIcG7Sgt9DlzryFXRrQyaSP970hZl/view?usp=sharing)
+- 💞️ &nbsp; My portfolio website for more details [Portfolio](https://sami-007.github.io/myportfolio/)
+
+
 ###
 
 <div align="center">
