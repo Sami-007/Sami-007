@@ -28,4 +28,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Ensure GITHUB_TOKEN is correctly set in repository secrets
+          GITHUB_TOKEN: ${{ secrets.MY_CUSTOM_TOKEN }}  # Ensure GITHUB_TOKEN is correctly set in repository secrets
