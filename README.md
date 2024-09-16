@@ -1,9 +1,5 @@
-<h4 align="left">👋 Hi, I’m Samiullah<br>	•	🎓 Graduate in Cloud Computing from Rizhao Polytechnic.<br>	•	💻 Fiverr Developer specializing in Java, C++, Python, JavaScript, and Data Structures & Algorithms.<br>	•	🎯 Helping clients with coding, debugging, and problem-solving on Fiverr.<br>•🌱 I’m a MERN stake developer<br>•💞️ My portfolio website for more details https://sami-007.github.io/myportfolio/<br>•📫 How to reach me, Samiasad.007@gmail.com</h4>
 
-
-
-
-## Hey 👋, Samiullah
+## Hey 👋, I am Samiullah
 
 
 
@@ -25,10 +21,13 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 
 ###
+<br/>
+<br/>
+
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sami-007&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sami-007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sami-007&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="streak graph"  /> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sami-007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ###
