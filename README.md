@@ -25,18 +25,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sami-007&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="streak graph"  /> &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sami-007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-
-###
-
+### 🔨 Languages and Tools:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -80,6 +69,20 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
+
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sami-007&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="streak graph"  /> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sami-007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+
+###
+
 
 ###
 
