@@ -74,7 +74,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sami-007&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> &nbsp;
+  <img src="https://streak-stats.demolab.com?user=Sami-007&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="170" alt="streak graph"  /> &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sami-007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
 </div>
 
