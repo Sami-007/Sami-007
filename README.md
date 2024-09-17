@@ -98,6 +98,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br clear="both">
 
-
+<img src="https://raw.githubusercontent.com/Sami-007/Sami-007/output/snakfasvg" alt="Snake animation" />
 ###
-![snake gif](https://github.com/Sami-007/Sami-007/blob/output/github-contribution-grid-snake.gif)
+
