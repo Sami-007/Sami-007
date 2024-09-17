@@ -95,8 +95,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 </div>
 
 ###
-### snake eating my github contributions
 <br clear="both">
+### snake eating my github contributions
 
 ![snake gif](https://github.com/Sami-007/Sami-007/blob/output/github-contribution-grid-snake.svg)
 
