@@ -16,7 +16,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](linkedin.com/in/samiullah-mithani-86aba715a)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1hYARIcG7Sgt9DlzryFXRrQyaSP970hZl/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1YCD6c3jcrI2qOkXddmBXkRt4inPepX0e/view?usp=sharing)
 - 💞️ &nbsp; My portfolio website for more details [Portfolio](https://sami-007.github.io/myportfolio/)
 
 
