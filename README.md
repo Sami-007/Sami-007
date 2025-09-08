@@ -94,10 +94,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
 </div>
 
-###
-<br clear="both">
-### snake eating my github contributions
 
-![snake gif](https://github.com/Sami-007/Sami-007/blob/output/github-contribution-grid-snake.svg)
 
 
